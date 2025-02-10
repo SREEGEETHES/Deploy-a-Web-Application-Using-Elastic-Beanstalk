@@ -1,4 +1,3 @@
-```markdown
 # Deploying a Python Application on AWS Elastic Beanstalk
 
 ## Overview
@@ -86,6 +85,4 @@ Before getting started, ensure you have the following:
   eb status
   ```
 - Refer to the **AWS documentation** for additional configurations.
-
-```
 
